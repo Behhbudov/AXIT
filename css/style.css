@@ -457,7 +457,7 @@ footer div:last-child {
     color: #ff8b38;
 }
 @media only screen and (min-width: 768px) {
-    header { height: 100vh; }
+    header { min-height: 100vh; }
     .container { 
         width: 80%;
         margin: auto;
