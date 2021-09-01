@@ -9,9 +9,7 @@ html { scroll-behavior: smooth; }
     border-radius: 5px;
     background: linear-gradient(transparent, #fa7d24);
 }
-header {
-    background: url('../img/headerbg.jpg') center/cover;
-}
+header { background: url('../img/headerbg.jpg') center/cover; }
 nav {
     text-align: center;
     padding: 20px 0 0 0;
